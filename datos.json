@@ -1,0 +1,32 @@
+
+[
+	{
+		"name": "cactuar",
+		"img": "https://raw.githubusercontent.com/catabrtvls/prueba/main/img/cactuar.png"
+	},
+	{
+		"name": "chocobo gordo",
+		"img": "https://raw.githubusercontent.com/catabrtvls/prueba/main/img/chocobo-gordo.png"
+	},
+	{
+		"name": "gato gordo",
+		"img": "https://raw.githubusercontent.com/catabrtvls/prueba/main/img/fat-cat.png"
+	},
+
+	{
+		"name": "goobbue",
+		"img": "https://github.com/catabrtvls/prueba/blob/main/img/goobbue.png?raw=true"
+	},
+
+  {
+		"name": "moogle",
+		"img": "https://raw.githubusercontent.com/catabrtvls/prueba/main/img/moogle.png"
+	},
+
+  {
+    "name": "paissa",
+    "img": "https://raw.githubusercontent.com/catabrtvls/prueba/main/img/paissa.png"
+  }
+
+
+]
