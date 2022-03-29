@@ -27,6 +27,7 @@ body {
     background-repeat: no-repeat;
     background-position: bottom;
     position: fixed;
+    background-size: 600px 300px;
 }
 
 
