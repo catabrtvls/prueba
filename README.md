@@ -2,17 +2,17 @@
 
 Los usuarios que desarrollaron los dibujos, son jóvenes entre 22 a 24 años, que están en sus últimos años de carrera o que egresaron el año pasado. Tienen experiencia con videojuegos y el lenguaje que se utiliza en ellos. En relación al acceso de tecnología, todos poseen computador personal. Algunos de los usuarios se manejan también con herramientas de arte digital. 
 
-![WhatsApp Image 2022-03-29 at 7 03 50 PM](https://user-images.githubusercontent.com/75257344/160851120-e1e1fe92-e26c-4d79-8847-3dd773856fc1.jpeg)
 Dibujo de Felipe León (24 años). Trabajador Social. 
+![WhatsApp Image 2022-03-29 at 7 03 50 PM](https://user-images.githubusercontent.com/75257344/160851120-e1e1fe92-e26c-4d79-8847-3dd773856fc1.jpeg)
 
-![WhatsApp Image 2022-03-29 at 7 16 53 PM](https://user-images.githubusercontent.com/75257344/160851196-28dce527-ca25-4c76-b191-070b6fcce197.jpeg)
 Dibujo de Elena León (23 años). Estudiante de Psicología, cuarto año. 
+![WhatsApp Image 2022-03-29 at 7 16 53 PM](https://user-images.githubusercontent.com/75257344/160851196-28dce527-ca25-4c76-b191-070b6fcce197.jpeg)
 
-![WhatsApp Image 2022-03-29 at 7 43 38 PM](https://user-images.githubusercontent.com/75257344/160851855-6151bd7a-81f8-4e29-ad1b-bf4f6d29fcea.jpeg)
 Dibujo de Antonia Serrano (22 años). Estudiante de Diseño, quinto año. 
+![WhatsApp Image 2022-03-29 at 7 43 38 PM](https://user-images.githubusercontent.com/75257344/160851855-6151bd7a-81f8-4e29-ad1b-bf4f6d29fcea.jpeg)
 
-![WhatsApp Image 2022-03-29 at 8 21 23 PM](https://user-images.githubusercontent.com/75257344/160852087-178eed48-b029-44ba-946c-8db3e1f028e2.jpeg)
 Dibujo de Natalia Valera (22 años). Estudiante de Diseño, quinto año. 
+![WhatsApp Image 2022-03-29 at 8 21 23 PM](https://user-images.githubusercontent.com/75257344/160852087-178eed48-b029-44ba-946c-8db3e1f028e2.jpeg)
 
 A continuación, dibujos de Fio Severino (24 años). Licenciada en Artes, que se motivó mucho dibujando:
 
